@@ -1,1 +1,13 @@
-
+{
+  "Path": {
+    "News": "/News",
+    "NaimLiteFree": "/Naim/NaimLiteFree",
+    "NaimLitePrivate": "/Naim/NaimLitePrivate",
+    "NaimLiteFaceit": "/Naim/NaimLiteFaceit"
+  },
+  "Version": {
+    "NaimLiteFree": "1.0.2",
+    "NaimLitePrivate": "1.0.2",
+    "NaimLiteFaceit": "1.0.2"
+  }
+}
