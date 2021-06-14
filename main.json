@@ -1,9 +1,17 @@
 {
   "Path": {
-    "News": "/News",
-    "NaimLiteFree": "/Naim/NaimLiteFree",
-    "NaimLitePrivate": "/Naim/NaimLitePrivate",
-    "NaimLiteFaceit": "/Naim/NaimLiteFaceit"
+    "News": {
+      "Self": "/News/",
+      "NaimLiteFree": "/Naim/NaimLiteFree.html/",
+      "NaimLitePrivate": "/Naim/NaimLitePrivate.html/",
+      "NaimLiteFaceit": "/Naim/NaimLiteFaceit.html/"
+    },
+    "About": {
+      "Self": "/About/",
+      "NaimLiteFree": "/About/NaimLiteFree.html/",
+      "NaimLitePrivate": "/About/NaimLitePrivate.html/",
+      "NaimLiteFaceit": "/About/NaimLiteFaceit.html/"
+    }
   },
   "Version": {
     "NaimLiteFree": "1.0.2",
