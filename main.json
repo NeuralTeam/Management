@@ -1,16 +1,4 @@
 {
-  "Path": {
-    "News": {
-      "Self": "/News/",
-      "NaimLiteFree": "/Naim Lite Free.html/",
-      "NaimLitePrivate": "/Naim Lite Private.html/",
-      "NaimLiteFaceit": "/Naim Lite Faceit.html/"
-    },
-    "About": {
-      "Self": "/About/",
-      "NeuralTeam": "/NeuralTeam.html/"
-    }
-  },
   "Version": {
     "NaimLiteFree": "1.0.2",
     "NaimLitePrivate": "1.0.2",
