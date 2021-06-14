@@ -2,15 +2,13 @@
   "Path": {
     "News": {
       "Self": "/News/",
-      "NaimLiteFree": "/News/Naim Lite Free.html/",
-      "NaimLitePrivate": "/News/Naim Lite Private.html/",
-      "NaimLiteFaceit": "/News/Naim Lite Faceit.html/"
+      "NaimLiteFree": "/Naim Lite Free.html/",
+      "NaimLitePrivate": "/Naim Lite Private.html/",
+      "NaimLiteFaceit": "/Naim Lite Faceit.html/"
     },
     "About": {
       "Self": "/About/",
-      "NaimLiteFree": "/About/NaimLiteFree.html/",
-      "NaimLitePrivate": "/About/NaimLitePrivate.html/",
-      "NaimLiteFaceit": "/About/NaimLiteFaceit.html/"
+      "NeuralTeam": "/NeuralTeam.html/"
     }
   },
   "Version": {
