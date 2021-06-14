@@ -2,9 +2,9 @@
   "Path": {
     "News": {
       "Self": "/News/",
-      "NaimLiteFree": "/News/NaimLiteFree.html/",
-      "NaimLitePrivate": "/News/NaimLitePrivate.html/",
-      "NaimLiteFaceit": "/News/NaimLiteFaceit.html/"
+      "NaimLiteFree": "/News/Naim Lite Free.html/",
+      "NaimLitePrivate": "/News/Naim Lite Private.html/",
+      "NaimLiteFaceit": "/News/Naim Lite Faceit.html/"
     },
     "About": {
       "Self": "/About/",
