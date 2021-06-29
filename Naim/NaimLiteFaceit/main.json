@@ -1,8 +1,7 @@
 {
-  "Version": "1.0.9",
+  "Version": "1.1.9",
   "Block": false,
   "Users": [
     "944a3fc903d6594a304f8be37eb52239"
-  ],
-  "Skip": false
+  ]
 }
