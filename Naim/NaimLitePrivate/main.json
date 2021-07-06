@@ -2,9 +2,9 @@
   "Version": "1.1.9",
   "Block": false,
   "Users": [
-    "944a3fc903d6594a304f8be37eb52239a"
+    "944a3fc903d6594a304f8be37eb52239"
   ],
   "BanList": [
-    "asyakoshka", "naim", "penguin"
+    "asyakoshka", "naim"
   ]  
 }
